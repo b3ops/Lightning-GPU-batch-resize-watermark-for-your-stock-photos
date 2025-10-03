@@ -1,5 +1,6 @@
-python imgBlzr_1.py --input_dir photos --crop --watermark --watermark_text "Call_Me_Plek"
+python imgBlzr_1.1.py --input_dir photos --crop --watermark --watermark_text "Call_Me_Plek"
 
 python imgBlzr_4k.py --input_dir photos --4k --watermark --watermark_text "Blazed 4K"
+
 
 
